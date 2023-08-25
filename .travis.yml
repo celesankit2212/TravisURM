@@ -5,6 +5,6 @@ jobs:
       python:
        - "3.8"
       arch: amd64
-      dist: focal
+      dist: xenial
       script:
         - python hello_world.py
